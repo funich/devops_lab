@@ -1,4 +1,5 @@
 s = int(8)
+
 print("Your number is:", s)
 bin1 = bin(s)
 rList = []

@@ -16,9 +16,12 @@ def calculate(number1: int, number2: int, operation: str) -> int:
 
 string = input()
 
+
 regex_match = re.match(r'(-?\d+)([*/+-])(-?\d+)=(-?\d+)', string)
 if regex_match:
-    result = calculate(int(regex_match.group(1)), int(regex_match.group(3)), regex_match.group(2))
+    result = calculate(int(regex_match.group(1)),
+                       int(regex_match.group(3)),
+                       regex_match.group(2))
     if int(regex_match.group(4)) == result:
         print("Yes")
     else:

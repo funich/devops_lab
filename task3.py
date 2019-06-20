@@ -1,7 +1,6 @@
 print("Type any value")
 
 myvalue = int(input())
-
 reslist = []
 
 if myvalue == 1:

@@ -1,4 +1,5 @@
 from collections import defaultdict
+
 print("Input 5 2 then input a, a, b, a, b, a, b")
 n, m = map(int, input().split(' '))
 
@@ -16,7 +17,7 @@ for i in range(m):
 d = defaultdict(list)
 
 for i in range(n):
-    d[input1[i]].append(i+1)
+    d[input1[i]].append(i + 1)
 
 for i in input2:
     if i in d:
