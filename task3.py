@@ -1,8 +1,8 @@
 print("Type any value")
+
 myvalue = int(input())
 
 reslist = []
-#i = 9
 
 if myvalue == 1:
     print("Result =", 1)
@@ -11,7 +11,7 @@ elif myvalue == 0:
     print("Result =", 0)
 
 else:
-    for i in range (9,2,-1):
+    for i in range(9, 2, -1):
         if myvalue % i == 0:
             myvalue /= i
             reslist.extend([i])
@@ -21,13 +21,3 @@ else:
         reslist.extend([myvalue])
         reslist.sort()
         print(reslist)
-
-
-
-
-
-
-
-
-
-

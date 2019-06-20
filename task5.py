@@ -8,4 +8,4 @@ for i in list(bin1)[2:]:
     else:
         rList.append('0')
 r = ''.join(rList)
-print("Complement number is:", int(r,2))
+print("Complement number is:", int(r, 2))
