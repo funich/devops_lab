@@ -1,0 +1,16 @@
+apache_vhosts:
+ - servername: www.task6.tld
+   documentroot: /www/task6
+   serveradmin: www-admin@foo.task6.com
+   directorypath: /usr/local/httpd/htdocs
+
+ - servername: www.task6-1.tld
+   documentroot: /www/task6-1
+   serveradmin: www-admin@foo.task6-1.com
+   directorypath: /usr/local/httpd/htdocs1
+
+ - servername: www.task6-2.tld
+   documentroot: /www/task6-2
+   serveradmin: www-admin@foo.task6-2.com
+   directorypath: /usr/local/httpd/htdocs2
+
