@@ -1,0 +1,97 @@
+{
+    "SNAPSHOT": 1,
+    "date": "2019-07-01 03:26:32",
+    "io_time": "2.151",
+    "cpu": 7.7,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.37MB', 'recv': '30253.36MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 2,
+    "date": "2019-07-01 03:26:33",
+    "io_time": "2.151",
+    "cpu": 8.8,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.37MB', 'recv': '30253.36MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 3,
+    "date": "2019-07-01 03:26:34",
+    "io_time": "2.151",
+    "cpu": 12.4,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.37MB', 'recv': '30253.37MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 4,
+    "date": "2019-07-01 03:26:35",
+    "io_time": "2.151",
+    "cpu": 16.9,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.37MB', 'recv': '30253.37MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 5,
+    "date": "2019-07-01 03:26:36",
+    "io_time": "2.151",
+    "cpu": 18.5,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.37MB', 'recv': '30253.37MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 1,
+    "date": "2019-07-01 03:27:28",
+    "io_time": "2.151",
+    "cpu": 10.8,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.42MB', 'recv': '30253.42MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 2,
+    "date": "2019-07-01 03:27:29",
+    "io_time": "2.151",
+    "cpu": 12.2,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.42MB', 'recv': '30253.43MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 3,
+    "date": "2019-07-01 03:27:30",
+    "io_time": "2.151",
+    "cpu": 19.3,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.42MB', 'recv': '30253.43MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 4,
+    "date": "2019-07-01 03:27:31",
+    "io_time": "2.151",
+    "cpu": 18.8,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.42MB', 'recv': '30253.43MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 1,
+    "date": "2019-07-01 03:28:30",
+    "io_time": "2.151",
+    "cpu": 11.5,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.45MB', 'recv': '30253.45MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 2,
+    "date": "2019-07-01 03:28:31",
+    "io_time": "2.151",
+    "cpu": 14.9,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.45MB', 'recv': '30253.45MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}{
+    "SNAPSHOT": 1,
+    "date": "2019-07-01 03:31:58",
+    "io_time": "2.152",
+    "cpu": 19.7,
+    "memory_utilization": "19682844672",
+    "virt_memory": "17132707840",
+    "network": "[{'ip': 'BC-5F-F4-A2-47-03', 'iface': 'Ethernet', 'sent': '5599.58MB', 'recv': '30253.62MB'}, {'ip': '00-FF-5A-44-E6-04', 'iface': 'Ethernet 3', 'sent': '0.00MB', 'recv': '0.00MB'}, {'ip': '127.0.0.1', 'iface': 'Loopback Pseudo-Interface 1', 'sent': '0.00MB', 'recv': '0.00MB'}]"
+}
