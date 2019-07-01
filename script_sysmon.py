@@ -91,7 +91,7 @@ class Monitoring(object):
     def getdatatxt(self, par):
         return 'SNAPSHOT{}:\t"{:%Y-%m-%d %H:%M:%S}":\tCPU:{:<5s}:\tMemory:{:<15s}:' \
                '\tVMemory:{:<15s}:\tIO:{:<10s}:NETStat{:<10s}\n'.format(par, datetime.now(),
-                                                                        str(self.getcpuTime()),
+                                                                        str(self.getcputime()),
                                                                         str(self.getmemory()),
                                                                         str(self.getvmemory()),
                                                                         str(self.getio()),
